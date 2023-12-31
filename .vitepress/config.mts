@@ -49,7 +49,8 @@ export default defineConfig({
       {
         text: 'VALOBOT 문서',
         items: [
-          { text: '시작하기', link: '/docs/welcome' },
+          { text: '환영합니다', link: '/docs/welcome' },
+          { text: '초대하기', link: '/docs/settings' },
         ]
       }
     ],
