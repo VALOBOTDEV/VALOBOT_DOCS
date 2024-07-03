@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 초대하기
-      link: https://discord.com/api/oauth2/authorize?client_id=1040206071417012234&permissions=8&scope=applications.commands%20bot
+      link: https://canary.discord.com/oauth2/authorize?client_id=1040206071417012234
     - theme: alt
       text: 문서보기
       link: /docs/settings
@@ -24,4 +24,3 @@ features:
     icon: 🌟
     details: 심플하지만, 멋진 디자인으로 발로봇을 즐겨보세요!
 ---
-
